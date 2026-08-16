@@ -16,10 +16,10 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "wolongzyw.com": {
-      "name": "🎬卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
+    "360zy.com": {
+      "name": "🎬360 资源",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "detail": "https://360zy.com"
     },
     "ikunzy.com": {
       "name": "🎬iKun资源",
@@ -40,11 +40,6 @@
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
-    },
-    "360zy.com": {
-      "name": "🎬360 资源",
-      "api": "https://360zyzz.com/api.php/provide/vod",
-      "detail": "https://360zy.com"
     },
     "jszyapi.com": {
       "name": "🎬极速资源",
